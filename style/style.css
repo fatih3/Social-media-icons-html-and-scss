@@ -3,7 +3,7 @@
   margin: 0%;
   box-sizing: border-box;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  background-color: rgb(246, 199, 137);
+  background-color: rgb(245, 224, 196);
 }
 
 .hero {
@@ -31,4 +31,9 @@ h1 {
   text-decoration: none;
   color: #000;
   border-radius: 50% px;
-}/*# sourceMappingURL=syle.css.map */
+}
+
+.social-links > a .fab {
+  font-size: 30px;
+  line-height: 80px;
+}/*# sourceMappingURL=Style.css.map */
